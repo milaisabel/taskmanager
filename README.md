@@ -1,13 +1,13 @@
 # Task Manager Web Application
 I developed this Task Manager web application using Java Spring Boot, HTML, CSS, and JavaScript. The application allows users to add, view, and delete tasks through a simple interface.
 
-# Features
+## Features
 - Add tasks
 - Delete tasks
 - Task updates
 - Responsive layout
 
-# Installation Instructions
+## Installation Instructions
 
 1. Clone the repository:
 git clone https://github.com/milaisabel/taskmanager.git
@@ -19,7 +19,7 @@ git clone https://github.com/milaisabel/taskmanager.git
 4. Open the browser and go to:
 http://localhost:8080
 
-# Technologies Used
+## Technologies Used
 - Java
 - Spring Boot
 - HTML
